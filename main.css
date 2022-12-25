@@ -1,0 +1,43 @@
+body {
+    background: rgb(48, 34, 84);
+    font-size: 36px;
+}
+
+.container {
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+input {
+    width: 150px;
+    height: 40px;
+    background: rgb(217, 171, 54);
+    border-radius: 10px;
+    font-size: 34px;
+    margin: 10px 20px;
+}
+
+button {
+    border-radius: 10px;
+    width: 50px;
+    height: 40px;
+    margin-left: 20px;
+    font-size: 16px;
+}
+
+.out {
+    background: rgb(118, 75, 75);
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h3 {
+    font-size: 24px;
+    color: brown;
+    margin-left: 20px;
+}
